@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"212d81321206c97e","type":"group","x":-500,"y":-320,"width":940,"height":860,"color":"6","label":"PROJECT NAME EXAMPLE"},
+		{"id":"62c99f8b2003ec80","type":"text","text":"EXAMPLE","x":-120,"y":-140,"width":250,"height":60,"color":"2"},
+		{"id":"895cbd5b0be734e9","type":"text","text":"EXAMPLE CHECKLIST\n\n- [ ] A\n- [ ] B\n- [ ] C\n- [ ] D\n- [ ] E\n- [ ] F\n- [ ] G\n- [ ] H","x":160,"y":-300,"width":250,"height":360,"color":"5"},
+		{"id":"7d5c6e50d378ce29","type":"text","text":"EXAMPLE","x":-120,"y":-260,"width":250,"height":60,"color":"2"},
+		{"id":"78545f4216bbef30","type":"text","text":"EXAMPLE","x":-120,"y":-20,"width":250,"height":60,"color":"2"},
+		{"id":"f459262562e8ff41","type":"text","text":"PROJECT IDEA EXAMPLE","x":-480,"y":-140,"width":250,"height":60,"color":"1"},
+		{"id":"97524e87bd6a7524","type":"text","text":"**You can even add notes, pictures and links!**","x":-480,"y":-20,"width":250,"height":60,"color":"2"},
+		{"id":"1a0df6a47c57df8a","type":"text","text":"EXAMPLE PROJECT DESCRIPTION","x":160,"y":120,"width":250,"height":400,"color":"6"},
+		{"id":"729a62982efa9ec4","type":"file","file":"!Knowledge Management for Offensive Security Professional/Knowledge Management for Offensive Security Professionals.md","x":-200,"y":100,"width":316,"height":400,"color":"4"},
+		{"id":"305a31db1bb03f05","type":"file","file":"Attachments/KM4OP.jpg","x":-481,"y":100,"width":251,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"b66b2ca7483d79a7","fromNode":"f459262562e8ff41","fromSide":"right","toNode":"7d5c6e50d378ce29","toSide":"left","color":"1"},
+		{"id":"1ea49847874323b5","fromNode":"f459262562e8ff41","fromSide":"right","toNode":"62c99f8b2003ec80","toSide":"left","color":"1"},
+		{"id":"993ba12f856098d2","fromNode":"f459262562e8ff41","fromSide":"right","toNode":"78545f4216bbef30","toSide":"left","color":"1"},
+		{"id":"ebd5134c6be10471","fromNode":"f459262562e8ff41","fromSide":"bottom","toNode":"97524e87bd6a7524","toSide":"top","color":"2"},
+		{"id":"6bc6c899369b973e","fromNode":"97524e87bd6a7524","fromSide":"bottom","toNode":"729a62982efa9ec4","toSide":"top","color":"4"}
+	]
+}

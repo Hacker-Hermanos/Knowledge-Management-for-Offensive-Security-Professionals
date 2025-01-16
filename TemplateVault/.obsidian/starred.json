@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "File Magic Numbers",
+      "path": "03 - Content/Pentesting/Guides/File Magic Numbers.md"
+    },
+    {
+      "type": "file",
+      "title": "Linux Privesc Cheatsheet ALL IN ONE",
+      "path": "03 - Content/Pentesting/Guides/Privilege Escalation/Linux Privesc Cheatsheet ALL IN ONE.md"
+    },
+    {
+      "type": "file",
+      "title": "Windows Privesc Cheatsheet ALL IN ONE",
+      "path": "03 - Content/Pentesting/Guides/Privilege Escalation/Windows Privesc Command Cheatsheet.md"
+    }
+  ]
+}

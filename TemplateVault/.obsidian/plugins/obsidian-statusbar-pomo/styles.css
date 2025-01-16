@@ -1,0 +1,7 @@
+.statusbar-pomo {
+    font-variant-numeric: tabular-nums;
+}
+
+.statusbar-pomo-logging:hover {
+    cursor: pointer;
+}

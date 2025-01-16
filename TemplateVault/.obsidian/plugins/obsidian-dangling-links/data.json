@@ -1,0 +1,43 @@
+{
+  "selectedTab": 0,
+  "sortOrder": 0,
+  "reducedIndices": [
+    "02 -",
+    "{{title}}",
+    "02 - Electronic Music",
+    "02 - FX",
+    "02 - Mixing",
+    "02 - Rage Beats",
+    "02 - PHP",
+    "02 - Sound Design",
+    "02 - Trap",
+    "07 - Templates/0701 - Machine Templates/0702 - AD Enumeration 2.0.md",
+    "07 - Templates/0701 - Machine Templates/0701 - AD Enumeration.md",
+    "03 - Content/0300 - Certs/EXP-100/9. Introduction to ARM Assembly/Introduction to ARM Assembly, Part I.md",
+    "03 - Content/0300 - Certs/EXP-100/9. Introduction to ARM Assembly/Introduction to ARM Assembly, Part II.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.1. Introduction to the x86 Architecture.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.1.1. Program Memory.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.1.2. CPU Registers.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.2. Buffer Overflow Walkthrough.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.2.1. Sample Vulnerable Code.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.2.2. Introducing the Immunity Debugger.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.2.3. Navigating Code.md",
+    "03 - Content/0300 - Certs/OSCP22/10. Introduction to Buffer Overflows (Theory)/10.2.4. Overflowing the Buffer.md",
+    "03 - Content/0300 - Certs/OSCP22/13. Client-Side Attacks/13.1. Know Your Target.md",
+    "03 - Content/0300 - Certs/OSCP23/Pentesting - Introduction to Cybersecurity.md",
+    "03 - Content/0300 - Certs/OSCP23/Pentesting - Introduction to Web Application Attacks.md",
+    "03 - Content/0300 - Certs/OSCP23/Pentesting - Lateral Movement in AD.md",
+    "03 - Content/0300 - Certs/OSCP23/Pentesting - Linux Privilege Escalation.md",
+    "03 - Content/0300 - Certs/OSCP23/Pentesting - Manual Enumeration.md",
+    "03 - Content/0300 - Certs/OSCP23/Pentesting - Password Attacks.md",
+    "03 - Content/Certs/CRTE/AD Cheatsheet - Full Cheatsheet.md",
+    "03 - Content/Cheatsheets/Active Directory Penetration Testing Methodology Cheatsheet.md",
+    "05 - Templates/0500 - Write Up Templates/0516 - Linux Methodology Template.md",
+    "05 - Templates/0500 - Write Up Templates/0518 - Active Directory Methodology Template.md"
+  ],
+  "ignoredFolders": [
+    "Attachments",
+    "04 - Tasks",
+    "05 - Templates"
+  ]
+}

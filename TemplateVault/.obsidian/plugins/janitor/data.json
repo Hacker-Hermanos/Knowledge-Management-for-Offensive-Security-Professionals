@@ -1,0 +1,21 @@
+{
+  "runAtStartup": false,
+  "addRibbonIcon": true,
+  "promptUser": true,
+  "promptForBigFiles": true,
+  "attachmentsExtensions": ".jpg|.jpeg|.png|.gif|.svg|.pdf",
+  "defaultOperation": "trash",
+  "expiredAttribute": "expires",
+  "expiredDateFormat": "YYYY-MM-DD",
+  "sizeLimitKb": 1024,
+  "processOrphans": true,
+  "processEmpty": true,
+  "processExpired": true,
+  "processBig": true,
+  "honorObsidianExcludedFiles": true,
+  "excludedFilesFilters": [
+    "05 - Templates/",
+    "Attachments/",
+    "canvas$"
+  ]
+}

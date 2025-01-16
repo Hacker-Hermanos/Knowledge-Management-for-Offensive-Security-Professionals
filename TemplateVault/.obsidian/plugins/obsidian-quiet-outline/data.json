@@ -1,0 +1,23 @@
+{
+  "patch_color": false,
+  "primary_color_light": "#c175ff",
+  "primary_color_dark": "#d70404",
+  "rainbow_line": false,
+  "rainbow_color_1": "#FD8B1F",
+  "rainbow_color_2": "#FFDF00",
+  "rainbow_color_3": "#07EB23",
+  "rainbow_color_4": "#2D8FF0",
+  "rainbow_color_5": "#BC01E2",
+  "search_support": true,
+  "level_switch": true,
+  "markdown": true,
+  "expand_level": "2",
+  "hide_unsearched": true,
+  "auto_expand": true,
+  "regex_search": false,
+  "ellipsis": false,
+  "label_direction": "left",
+  "drag_modify": false,
+  "locate_by_cursor": true,
+  "show_popover": true
+}

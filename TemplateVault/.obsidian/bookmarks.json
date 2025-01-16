@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "03 - Content/Pentesting/Guides/Privilege Escalation/Linux Privesc Cheatsheet ALL IN ONE.md",
+      "ctime": 1683097706426
+    },
+    {
+      "type": "file",
+      "path": "03 - Content/Pentesting/Guides/Privilege Escalation/Windows Privesc Command Cheatsheet.md",
+      "ctime": 1683097706426
+    },
+    {
+      "type": "file",
+      "ctime": 1683892101505,
+      "path": "03 - Content/Pentesting/Guides/Misc/BurpSuite Brute Force CSRF Tokens.md",
+      "title": "CSRF Burpsuite Guide"
+    },
+    {
+      "type": "file",
+      "ctime": 1689064070236,
+      "path": "03 - Content/Pentesting/Guides/Active Directory/AD Exploitation Cheat Sheet.md",
+      "title": "AD Full CheatSheet"
+    }
+  ]
+}

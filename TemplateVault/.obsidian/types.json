@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Index": "text",
+    "Secondary Categories": "multitext",
+    "Categories": "multitext",
+    "Topics": "multitext",
+    "Types": "multitext"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-plugin-toc:create-toc": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-dynamic-toc:dynamic-toc-insert-command": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-quiet-outline:quiet-outline-reset": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": []
+}

@@ -1,0 +1,20 @@
+{
+  "pomo": 45,
+  "shortBreak": 7,
+  "longBreak": 15,
+  "longBreakInterval": 4,
+  "autostartTimer": true,
+  "numAutoCycles": 0,
+  "ribbonIcon": true,
+  "emoji": true,
+  "notificationSound": true,
+  "useSystemNotification": false,
+  "backgroundNoiseFile": "",
+  "logging": false,
+  "logFile": "Pomodoro Log.md",
+  "logToDaily": false,
+  "logText": "[🍅] dddd, MMMM DD YYYY, h:mm A",
+  "logActiveNote": false,
+  "fancyStatusBar": false,
+  "whiteNoise": false
+}

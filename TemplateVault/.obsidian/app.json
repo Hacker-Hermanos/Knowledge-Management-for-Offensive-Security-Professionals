@@ -1,0 +1,25 @@
+{
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "04 - Templates/"
+  ],
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "tabSize": 4,
+  "strictLineBreaks": false,
+  "newLinkFormat": "shortest"
+}
