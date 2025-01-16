@@ -9,10 +9,10 @@ Types:
 tags:
   - KM4OP
 date created: Sunday, March 17th 2024
-date modified: Sunday, March 17th 2024
+date modified: Thursday, January 16th 2025
 ---
 
-# Knowledge Management for Offensive Security Professionals
+# Course Index
 
 ```ad-note
 title: Knowledge Management for Offensive Security Professionals

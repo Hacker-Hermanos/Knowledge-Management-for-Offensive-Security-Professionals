@@ -8,7 +8,7 @@
 		{"id":"f459262562e8ff41","type":"text","text":"PROJECT IDEA EXAMPLE","x":-480,"y":-140,"width":250,"height":60,"color":"1"},
 		{"id":"97524e87bd6a7524","type":"text","text":"**You can even add notes, pictures and links!**","x":-480,"y":-20,"width":250,"height":60,"color":"2"},
 		{"id":"1a0df6a47c57df8a","type":"text","text":"EXAMPLE PROJECT DESCRIPTION","x":160,"y":120,"width":250,"height":400,"color":"6"},
-		{"id":"729a62982efa9ec4","type":"file","file":"!Knowledge Management for Offensive Security Professional/Knowledge Management for Offensive Security Professionals.md","x":-200,"y":100,"width":316,"height":400,"color":"4"},
+		{"id":"729a62982efa9ec4","type":"file","file":"!Knowledge Management for Offensive Security Professional/Course Index.md","x":-200,"y":100,"width":316,"height":400,"color":"4"},
 		{"id":"305a31db1bb03f05","type":"file","file":"Attachments/KM4OP.jpg","x":-481,"y":100,"width":251,"height":400,"color":"4"}
 	],
 	"edges":[
