@@ -41,6 +41,7 @@ This course focuses on:
 
 ### In the Vault
 The main content is in the folder `!Knowledge Management for Offensive Security Professionals` within the vault. 
+
 ![course content](attachments/course-content.png)
 
 This folder includes the course's contents, explaining how the vault is configured and how you can replicate or customize the setup.
