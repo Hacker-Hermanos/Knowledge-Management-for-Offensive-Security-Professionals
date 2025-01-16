@@ -43,7 +43,7 @@ This course focuses on:
 The main content is in the folder `!Knowledge Management for Offensive Security Professionals` within the vault. 
 
 ![course content](attachments/course-content.png)
-
+ 
 This folder includes the course's contents, explaining how the vault is configured and how you can replicate or customize the setup.
 - **Lessons 1-9**:
   1. **Vault Folder Structure**
@@ -90,6 +90,18 @@ If you encounter any issues or have questions, please contact Rafael at rafael@t
 # Credits
 
 Special thanks to [TrustedSec for sharing their Obsidian setup](https://www.trustedsec.com/blog/obsidian-taming-a-collective-consciousness).
+
+---
+
+# Repository Reset Notice (Jan 16 2025)
+
+> Some template markdown notes triggered AV false positives because they contained malicious commands on template notes (mimikatz, amsi bypasses, etc).
+
+This repository has been reset to remove flagged files from its history. If you need access to the older version, you can download the zipped repository from the link below:
+
+*I do not recommend downloading it into work-related environments.* 
+
+[Download Older Repository Version](https://drive.google.com/file/d/1IuEUWYcZ49_a9zI7lSKHKG8GbyFhpAzz/view?usp=sharing)
 
 ---
 
