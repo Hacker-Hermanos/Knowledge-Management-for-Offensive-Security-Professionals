@@ -105,9 +105,3 @@ This repository has been reset to remove flagged files from its history. If you 
 
 ---
 
-# To-Do
-
-- [x] Add AV false positives disclaimer.
-- [x] Solve AV false positives problem.
-- [x] New "how to use this course" Readme.md.
-- [ ] YT videos.
